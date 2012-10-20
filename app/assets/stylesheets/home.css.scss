@@ -1,3 +1,13 @@
-// Place all the styles related to the home controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  padding-top: 80px;
+}
+
+article.tech {
+  margin-top: 20px;
+}
+.tech h2 {
+  font-weight: 200;
+}
+.tech .rating {
+  color: coral;
+}
