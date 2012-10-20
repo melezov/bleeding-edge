@@ -1,4 +1,4 @@
 bleeding-edge
 =============
 
-Is it bleeding edge (excercise in RoR)
+Is it bleeding edge (exercise in RoR)
