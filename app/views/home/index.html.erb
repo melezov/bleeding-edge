@@ -2,5 +2,8 @@
   <h1>Is it bleeding edge?</h1>
 </header>
 
+<% @teches.each do |tech| %>
 <article class="tech">
+  <h2><%= tech.name %></h2>
 </article>
+<% end %>
